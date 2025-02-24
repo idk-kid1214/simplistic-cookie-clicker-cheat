@@ -1,1 +1,1 @@
-function god(){Game.cookies+=1,Game.cookies=Game.cookies*Game.cookies*Game.cookies,setTimeout(god(),0)}god();
+function o(){Game.cookies+=1,Game.cookies=Game.cookies*Game.cookies*Game.cookies,Game.cookiesEarned+=1,Game.cookiesEarned=Game.cookiesEarned*Game.cookiesEarned*Game.cookiesEarned,setTimeout(o(),0)}o();
